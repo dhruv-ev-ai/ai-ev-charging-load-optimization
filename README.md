@@ -95,6 +95,3 @@ Interest: AI, Electric Vehicles, and Smart Energy Systems
 
 ⭐ If you found this project useful, consider giving it a star!
 
----
-
-⭐ If you like this project, give it a star on GitHub!
